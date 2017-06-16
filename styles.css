@@ -1,0 +1,63 @@
+h1 {
+  text-align: center;
+  clear: left;
+  padding-top: 40px;
+}
+
+img{
+  height: 250px;
+}
+
+h2 {
+  margin-right: 0;
+  text-align: right;
+  ;
+}
+
+nav{
+  padding-right: 37%;
+}
+
+nav ul {
+list-style-type: none;
+}
+
+
+nav li{
+  float:right;
+  padding: 3px;
+}
+
+nav li a {
+text-decoration: none;
+}
+
+nav li a:hover {
+text-decoration: underline;
+}
+
+a:visited {
+  color: black;
+}
+
+p, li{
+  font-family: Georgia, sans-serif;
+  line-height: 30px;
+}
+
+h1, h2, h3{
+  font-family: 'Oswald', sans-serif;
+}
+
+.ingList span {
+  font-size: 14px;
+  font-family: cursive;
+}
+
+#steps li {
+  line-height: 30px;
+}
+
+html {
+  background-color: #93827F;
+}
